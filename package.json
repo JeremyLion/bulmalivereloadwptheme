@@ -1,0 +1,23 @@
+{
+  "name": "trippy",
+  "version": "1.0.0",
+  "description": "=== trippy ===",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node-sass sass/style.scss style.css",
+    "watch": "npm run build -- --watch",
+    "start": "npm run watch & browser-sync start --proxy \"http://localhost:8888/trippy/\" --files \"style.css\""
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.9.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "node-sass": "^9.0.0"
+  }
+}
