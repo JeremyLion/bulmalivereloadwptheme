@@ -1,7 +1,6 @@
-Sure! Here's a sample README file you can use for your WordPress theme:
 
 ```
-# My WordPress Theme
+# Jeremy Loves Live Reload Bulma WordPress Theme
 
 ## Live Reload and Bulma Integration
 
