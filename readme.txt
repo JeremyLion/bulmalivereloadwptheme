@@ -1,5 +1,4 @@
-```markdown
-# Jeremy Loves Live Reload Bulma WordPress Theme 👨‍💻
+Jeremy Loves Live Reload Bulma WordPress Theme 👨‍💻
 
 ## Live Reload and Bulma Integration 🔄
 
